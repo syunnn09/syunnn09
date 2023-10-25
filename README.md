@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @syunnn09
 - 👀 I’m interested in programming, marjong, radiko(radio) and so on.
-- 🌱 I’m currently learning Python and Java.
+- 🌱 I’m currently learning Python, Java and Swift.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
